@@ -55,8 +55,8 @@ RAG (Retrieval-Augmented Generation)
 Model Deployment
 Cloud Computing
 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/yourprofile
-Email: yourmail@email.com
+LinkedIn: www.linkedin.com/in/phiongmarkus
+Email: phiongmarkus22@email.com
 ⚡ Fun Fact
 
 Saya suka membangun project AI yang bisa digunakan langsung untuk menyelesaikan masalah nyata dan terus belajar teknologi baru di bidang AI & Data Science.
